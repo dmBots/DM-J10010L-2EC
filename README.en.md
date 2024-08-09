@@ -1,7 +1,7 @@
-# DM-J10010L-2EC
+# DM-10010-2EC
 
 #### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
+DM10010减速电机
 
 #### Software Architecture
 Software architecture description
